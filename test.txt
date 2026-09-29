@@ -1,3 +1,4 @@
 this is git project
 i am practicing git merge
-eaiting for the output result
+this comment updated in dev branch
+
