@@ -1,2 +1,3 @@
 this is git project
-working on vs cod
+i am practicing git merge
+eaiting for the output result
